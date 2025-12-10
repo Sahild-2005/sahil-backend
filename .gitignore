@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+
+# dotenv files
+.env
+.env.test
+.env.production
+
+# Logs
+logs
+*.log
+
+# Build output
+dist
+build
